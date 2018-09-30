@@ -9,6 +9,7 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 *For our purpose, we further trained this model on PASCAL VOC 2007 and KITTI Vision Benchmark Suite datasets. 
 
 #Models
+
 | Model        |Dataset           | Total Number of Annotated Images  | Accuracy(%) |Weights link  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 | YOLO1      | Front View Fish Eye Lens Road Scene | 620 | 70.44 |  |
