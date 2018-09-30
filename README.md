@@ -25,7 +25,7 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 | YOLO4 |Vehant Bus Low Light Road Scene |    999 |    34.86 |    |
 | YOLO5 | ALL of the above    |    5562 |    63.37 |   |
 
-![alt text]()
+![alt text](https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t10.png)
 
 ## Results
 
