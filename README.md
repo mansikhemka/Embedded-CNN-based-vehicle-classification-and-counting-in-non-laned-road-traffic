@@ -1,11 +1,19 @@
 # Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic
 
+#Prerequisistes
 
-| Model        |Trained and Tested On           | Total Number of Annotated Images  | Accuracy(%) |Weights link  |
+Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darknet/tree/47c7af1cea5bbdedf1184963355e6418cb8b1b4f#how-to-train-to-detect-your-custom-objects
+
+#Description
+* YOLO(You Only Look Once) version 2 pretrained on Imagenet has been used as the base for the network. The network helps in object detection and classification by scanning test image only once. 
+*For our purpose, we further trained this model on PASCAL VOC 2007 and KITTI Vision Benchmark Suite datasets. 
+
+#Models
+| Model        |Dataset           | Total Number of Annotated Images  | Accuracy(%) |Weights link  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-| YOLO1      | Front View Fish Eye Lens | 620 | 70.44 |  |
-|YOLO2     | Back View Under Highway     |   1189|  58.01|    |
-| YOLO3 | DIMTS    |  2754 |   62.32 |    |
-| YOLO4 |Vehant Bus Low Light    |    999 |    34.86 |    |
+| YOLO1      | Front View Fish Eye Lens Road Scene | 620 | 70.44 |  |
+|YOLO2     | Back View Under Flyover Road Scene     |   1189|  58.01|    |
+| YOLO3 | DIMTS Heavy Vehicles Highway Scene   |  2754 |   62.32 |    |
+| YOLO4 |Vehant Bus Low Light Road Scene |    999 |    34.86 |    |
 | YOLO5 | ALL of the above    |    5562 |    63.37 |   |
 
