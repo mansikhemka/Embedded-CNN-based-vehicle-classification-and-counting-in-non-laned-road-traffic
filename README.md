@@ -9,7 +9,7 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 
 *To improve accuracy, we further trained this model on PASCAL VOC 2007 and KITTI Vision Benchmark Suite datasets. 
 
-*
+*d
 
 #Models
 
