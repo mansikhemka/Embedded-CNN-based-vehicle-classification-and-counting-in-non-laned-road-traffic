@@ -13,7 +13,9 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 
 ## Models
 
-* For each model( except YOLO 5), the weights gathered in the 10,600th epoch was used to calculate the result. For YOLO 5, we used the 72000th iteration weights. These specific models showed the best accuracy on the test data.
+* For each model( except YOLO 5), the weights gathered in the 10,600th epoch was used to calculate the result. 
+
+* For YOLO 5, we used the 72000th iteration weights. These specific models showed the best accuracy on the test data.
 
 | Model        |Dataset           | Total Number of Annotated Images  | Accuracy(%) |Weights link  |
 | ------------- |:-------------:| -----:| -----:| -----:|
@@ -23,7 +25,7 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 | YOLO4 |Vehant Bus Low Light Road Scene |    999 |    34.86 |    |
 | YOLO5 | ALL of the above    |    5562 |    63.37 |   |
 
-![alt text](https://drive.google.com/open?id=1iEyhq3Gt-WMfc1AHqLbwtibWohjBWDe5)
+![alt text]()
 
 ## Results
 
