@@ -6,7 +6,10 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 
 #Description
 * YOLO(You Only Look Once) version 2 pretrained on Imagenet has been used as the base for the network. The network helps in object detection and classification by scanning test image only once. 
-*For our purpose, we further trained this model on PASCAL VOC 2007 and KITTI Vision Benchmark Suite datasets. 
+
+*To improve accuracy, we further trained this model on PASCAL VOC 2007 and KITTI Vision Benchmark Suite datasets. 
+
+*
 
 #Models
 
