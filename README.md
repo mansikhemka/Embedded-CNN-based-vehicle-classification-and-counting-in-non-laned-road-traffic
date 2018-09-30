@@ -25,18 +25,14 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 | YOLO4 |Vehant Bus Low Light Road Scene |    999 |    34.86 |    |
 | YOLO5 | ALL of the above    |    5562 |    63.37 |   |
 
-<img src="https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t10.png" width="100" height="50">
+<img src="https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t10.png" width="200" height="200">
 
-![alt text](https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t10.png)
+<img src="https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t11.png" width="200" height="200">
 
+<img src="https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t12.png" width="200" height="200">
 
-![alt text](https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t11.png)
+<img src="https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t7.png" width="200" height="200">
 
-
-![alt text](https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t12.png)
-
-
-![alt text](https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t7.png)
 
 ## Results
 
