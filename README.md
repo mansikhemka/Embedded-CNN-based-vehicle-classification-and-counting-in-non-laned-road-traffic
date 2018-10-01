@@ -19,11 +19,11 @@ Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darkn
 
 | Model        |Dataset           | Total Number of Annotated Images  | Accuracy(%) |Weights link  |
 | ------------- |:-------------:| -----:| -----:| -----:|
-| YOLO1      | Front View Fish Eye Lens Road Scene | 620 | 70.44 |  |
-|YOLO2     | Back View Under Flyover Road Scene     |   1189|  58.01|    |
-| YOLO3 | DIMTS Heavy Vehicles Highway Scene   |  2754 |   62.32 |    |
-| YOLO4 |Vehant Bus Low Light Road Scene |    999 |    34.86 |    |
-| YOLO5 | ALL of the above    |    5562 |    63.37 |   |
+| YOLO1      | Front View Fish Eye Lens Road Scene | 620 | 70.44 | https://drive.google.com/file/d/1sAiVgXM9dtv9rPsLd_ePQ66eTKce9HQD/view?usp=sharing |
+|YOLO2     | Back View Under Flyover Road Scene     |   1189|  58.01|  https://drive.google.com/open?id=1QG5Ek03_E953lU97TkjVyE8su4fShA5j  |
+| YOLO3 | DIMTS Heavy Vehicles Highway Scene   |  2754 |   62.32 |  https://drive.google.com/open?id=1GWlkHo0hL9cvR4b_GsynDJhiiAiGIT3G  |
+| YOLO4 |Vehant Bus Low Light Road Scene |    999 |    34.86 | https://drive.google.com/open?id=1RzTYLlKZhiHuvIVWl2b4oqRL0owuGHd4   |
+| YOLO5 | ALL of the above    |    5562 |    63.37 |  https://drive.google.com/file/d/1RzTYLlKZhiHuvIVWl2b4oqRL0owuGHd4/view?usp=sharing |
 
 <img src="https://github.com/mansikhemka/Embedded-CNN-based-vehicle-classification-and-counting-in-non-laned-road-traffic/blob/master/t10.png" width="300" height="300">
 
