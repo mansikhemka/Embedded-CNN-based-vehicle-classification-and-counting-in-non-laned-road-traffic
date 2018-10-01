@@ -39,3 +39,7 @@ Fork and Clone AlexeyAB's darknet folder on local host - https://github.com/Alex
 * For YOLO 5, 72000th iteration, following are the results:
   * For thresh = 0.25, TP = 4514, FP = 6036, FN = 1888, average IOU = 32.66%
   * For thresh = 0.25, precision = 0.43, recall = 0.71, F1-score = 0.53
+  
+## Dataset
+
+If you are a researcher or student in an academic institution, please request our annotated dataset using your institutional email id from riju@cse.iitd.ac.in
