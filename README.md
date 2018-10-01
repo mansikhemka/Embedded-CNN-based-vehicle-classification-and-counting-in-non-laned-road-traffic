@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Fork AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darknet/tree/47c7af1cea5bbdedf1184963355e6418cb8b1b4f#how-to-train-to-detect-your-custom-objects
+Fork and Clone AlexeyAB's darknet folder on local host - https://github.com/AlexeyAB/darknet/tree/47c7af1cea5bbdedf1184963355e6418cb8b1b4f#how-to-train-to-detect-your-custom-objects
 
 ## Description
 * YOLO(You Only Look Once) version 2 pretrained on Imagenet has been used as the base for the network. The network helps in object detection and classification by scanning test image only once. 
